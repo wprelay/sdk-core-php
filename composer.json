@@ -1,5 +1,5 @@
 {
-    "name": "wprelay/rest-api-sdk-php",
+    "name": "wprelay/sdk-core-php",
     "description": "WPRelay PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
